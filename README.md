@@ -7,7 +7,7 @@ Quiz App
 LAYOUT
 
 Overall Layout
-App contains 4 - 10 questions, including at least one check box, one radio button, and one text entry.
+\nApp contains 4 - 10 questions, including at least one check box, one radio button, and one text entry.
 
 Question types
 Questions are in a variety of formats such as free text response, checkboxes, and radio buttons.
