@@ -1,5 +1,5 @@
 # Quiz App: Languages of the World
-This app was my final project for the Grow with Google Challenge Scholarship: Android Basics, offered through Udacity. The quiz topic could be anything we wanted, so I figured a quiz on languages would be appropriate for my role and fun to learn some new trivia myself. The app had to meet the specifications of the following project rubric:
+This app was my final project for the Grow with Google Challenge Scholarship: Android Basics, offered through Udacity. The quiz topic could be anything we wanted, so I figured a quiz on languages would be appropriate for my role and fun to learn some new trivia myself. The app had to meet the specifications of the following project rubric (localization was not required but it was fun to see how easy it was to localize the strings into Spanish!):
 
 PROJECT SPECIFICATION
 Quiz App
