@@ -1,5 +1,5 @@
-# quiz-app
-Final project for the Grow with Google Challenge Scholarship: Android Basics. App had to meet the specifications of the following project rubric:
+# Quiz App: Languages of the World
+This app was my final project for the Grow with Google Challenge Scholarship: Android Basics. The quiz topic could be anything we wanted, so I figured a quiz on languages would be appropriate for my role and fun to learn some new trivia myself. The app had to meet the specifications of the following project rubric:
 
 PROJECT SPECIFICATION
 Quiz App
